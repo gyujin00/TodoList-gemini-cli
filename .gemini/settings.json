@@ -1,0 +1,14 @@
+{
+  "ui": {
+    "showModelInfoInChat": true,
+    "footer": {
+      "hideContextPercentage": false
+    }
+  },
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@executeautomation/playwright-mcp-server"]
+    }
+  }
+}
